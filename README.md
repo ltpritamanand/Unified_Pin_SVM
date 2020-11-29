@@ -14,4 +14,4 @@ The ‘pin_svm.m’ is the quadprog implementation of existing Pin-SVM model.
 
 
 
-For any support or queries, contact ltpritamanand@gmail.coms
+For any support or queries, contact ltpritamanand@gmail.com
