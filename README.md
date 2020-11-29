@@ -1,5 +1,5 @@
 # Unified_Pin_SVM
- It is the MATLAB implementation of the Unified Pin-SVM QPP which can minimize the  Pinball loss function in true sense without bothering about the sign of its parameter t.  All experimental results described in the paper titled ‘Comment on pinball loss support vector machine’ can be obtained via these codes.  
+ It is the MATLAB implementation of the Unified Pin-SVM QPP which can minimize the  Pinball loss function in true sense without bothering about the sign of its parameter tau.  All experimental results described in the paper titled ‘Comment on pinball loss support vector machine’ can be obtained via these codes.  
 
 Following are the steps to obtain all numerical results detailed in the paper titled ‘Comment on pinball loss support vector machine’ with single click.
     
